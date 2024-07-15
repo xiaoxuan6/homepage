@@ -1,0 +1,6 @@
+.idea
+.github/
+.env.example
+.gitignore
+.goreleaser.yaml
+README.md
