@@ -20,7 +20,7 @@ FROM scratch
 WORKDIR /src
 
 COPY --link --from=build-dev /go/src/app/homepage ./homepage
-COPY .env ./.env
+COPY .env.example ./.env
 COPY templates ./templates
 COPY static ./static
 

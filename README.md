@@ -21,6 +21,6 @@ go run main.go
 # 使用 `Docker`
 
 ```docker
-docker run --name=homepage -p 8080:8080 -d ghcr.io/xiaoxuan6/homepage:latest
+docker run --name=homepage -v .env:/src/.env -p 8080:8080 -d ghcr.io/xiaoxuan6/homepage:latest
 ```
 
