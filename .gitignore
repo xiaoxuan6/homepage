@@ -1,4 +1,4 @@
 .idea
 homepage.exe
 dist/
-.env
+config.yml

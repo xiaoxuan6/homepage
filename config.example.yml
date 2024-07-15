@@ -1,0 +1,24 @@
+website_title: "homepage"
+website_author: "xiaoxuan6"
+website_description: "整天半吊子和不学无术的坏孩子,梦想成为庄稼地里的读书人....."
+website_keywords: "主页,导页,homepage,引导页"
+
+github_username: "xiaoxuan6"
+email: ""
+
+# logo static地址或 url 地址
+logo: "/static/img/logo.png"
+# 打赏二维码地址
+pay: "https://cdn.jsdelivr.net/gh/xiaoxuan6/static/images/wechat.png"
+# qq 二维码地址
+qq: ""
+
+sites:
+  - title: "敬请期待"
+    url: "#"
+    desc: "开发中……"
+
+projects:
+  - title: "敬请期待"
+    url: "#"
+    desc: "开发中……"

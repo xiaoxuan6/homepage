@@ -2,5 +2,6 @@
 .github/
 .gitignore
 .goreleaser.yaml
+config.yml
 LICENSE
 README.md
